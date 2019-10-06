@@ -13,7 +13,7 @@ h1{
 body{
     background-color: aliceblue
 }
-#displayBox{
+#display{
 width: 100%;
 border-style: dashed;
 border-radius: 2%;
