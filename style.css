@@ -22,11 +22,11 @@ height: 200px;
 button{
     border-radius: 10%;
 }
-#generatebtn{
+#generateBtn{
     background-color: red;
     color: white;
 }
-#copybtn{
+#copyB{
     background-color: gray;
     color:white;
 }
