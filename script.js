@@ -15,7 +15,7 @@ var displayB = document.querySelector('#display')
 createPwd.addEventListener("click", function(event) {
   var password = ""
   var promptCharacters = prompt(
-    "Choose a number 8 to 128  to generate password"
+    "Choose a number between 8 to 128  to generate password"
   )
   if (promptCharacters < 8 || promptCharacters > 128) {
     alert("Please enter a valid entry")
